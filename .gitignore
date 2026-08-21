@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv2/
+.venv/
+
+# PyCharm
+.idea/
+
+# Generated results
+all_results/
+datasetbreak2/
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
